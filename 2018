@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Kherin Trufina - Law Student at SASTRA University">
+  <meta name="keywords" content="Kherin Trufina, Law Student, SASTRA, Criminal Law, Trichy">
+  <meta name="author" content="Kherin Trufina">
+  <title>Kherin Trufina | Law Student</title>
+  <style>
+    body { font-family: Arial, sans-serif; line-height: 1.6; margin: 20px; background-color: #f4f4f4; color: #333; }
+    .container { max-width: 800px; margin: auto; background: white; padding: 20px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
+    h1, h2 { color: #2c3e50; }
+    .section { margin-bottom: 30px; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Kherin Trufina</h1>
+    <p><strong>Law Student | B.Com., LL.B | SASTRA University (2023–2028)</strong></p>
+
+    <div class="section">
+      <h2>About Kherin Trufina</h2>
+      <p>Kherin Trufina is a dedicated and passionate law student currently pursuing her B.Com., LL.B at SASTRA University (2023–2028). Born and raised in Karumandapam, Trichy, Kherin has always been deeply curious about justice, truth, and the workings of the legal system — with a strong focus on criminal law, her area of interest and specialization.</p>
+      <p>She comes from a humble and hardworking background. Her father, Arockiaraj, is both a tea stall owner and a real estate businessman, whose relentless commitment and values have played a key role in shaping her aspirations. From her formative school years to stepping into the field of law, Kherin’s journey has been guided by discipline, resilience, and a continuous desire for personal and professional growth.</p>
+      <p>Kherin strongly believes that every individual deserves to be heard and that every story holds value. Her vision is to use law not just as a profession but as a powerful tool for empowerment, advocacy, and justice.</p>
+    </div>
+
+    <div class="section">
+      <h2>Education</h2>
+      <ul>
+        <li><strong>SASTRA University</strong><br>B.Com., LL.B – 2023 to 2028</li><br>
+        <li><strong>KNMS School</strong><br>Higher Secondary (2019–2021)<br>Focused on humanities with a strong foundation in law-related subjects.</li><br>
+        <li><strong>Montfort School</strong><br>Primary & Secondary Education (2011–2018)<br>Where she developed her early academic discipline and communication skills.</li>
+      </ul>
+    </div>
+  </div>
+</body>
+</html>
